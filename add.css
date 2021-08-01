@@ -1,0 +1,65 @@
+body {margin:0;}
+
+.icon-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+img {
+  border-radius: 50%;
+}
+
+h3 {
+  color: rgb(250, 245, 245);
+}
+
+.logo{
+  color: white;
+  font-size: 35px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+p{
+  float: right;
+            margin-top: 0px;
+            margin-right:auto;
+            font-size: 20px;
+            font-style: oblique;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+             color: #000;
+          }
+
+
+h1 {
+  float:right;
+  margin-top:0px;
+  color: rgb(235, 233, 241);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 170px;
+
+}
+
+.align {
+  color: rgb(226, 216, 216);
+
+}
